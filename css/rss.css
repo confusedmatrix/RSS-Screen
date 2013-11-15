@@ -1,0 +1,18 @@
+body {
+	background-color: #000;
+	margin: 20px;
+	position: relative;
+}
+a {
+	font-family: "Helvetica Neue", Helvetica, Sans-serif;
+	font-size: 50px;
+	font-weight: 300;
+	display: inline-block;
+	position: absolute;
+	color: #FFF;
+	text-decoration: none;
+}
+a .attr {
+	color: #888;
+	font-size: 20px;
+}
